@@ -1,0 +1,2 @@
+# IPL-data-analysis-and-visualization-project-using-python
+Data science is the study of the data to extrack knowledge and insights from the data and apply knowledge and actionable insights. I work on IPL data analysis and visualisation projects using Python where we will explore the interesting insight from the date of IPL matches, like most runs by player ,most wickets taken by a player and much more from IPL session 2008 to 2019.
